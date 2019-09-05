@@ -1,5 +1,5 @@
 # Monitoring
-To explore the application monitoring using Prometheus and Grafana. 
+Sample application to explore the application monitoring using Prometheus and Grafana.
 
 ## Set up App
 ```
